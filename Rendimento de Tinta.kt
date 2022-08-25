@@ -9,7 +9,8 @@ uma lata rende 5m²
 
 fun latas_tinta (alt: Double, larg: Double, rend: Double): String{
     var resultado: Double = (alt + larg) / rend
-    return "Você necessita de $resultado latas de tinta."
+    val resultadoArredondado = String.format("%.2f", resultado)
+    return "Você necessita de $resultadoArredondado latas de tinta."
 }
 
 fun main() {
@@ -19,5 +20,5 @@ fun main() {
     val larg = readln().toDouble()
     println("Digite a Largura da parede: ")
     val rend = readln().toDouble()
-    latas_tinta (alt, larg, rend)
+    println(latas_tinta(alt, larg, rend))
 }
