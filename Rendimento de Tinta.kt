@@ -22,3 +22,4 @@ fun main() {
     val rend = readln().toDouble()
     println(latas_tinta(alt, larg, rend))
 }
+// koltin up 1.6v
