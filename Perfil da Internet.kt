@@ -1,4 +1,4 @@
-
+// Lista de exercicios:  https://developer.android.com/codelabs/basic-android-kotlin-compose-kotlin-fundamentals-practice-problems?hl=pt_br#0
 
 /*
 Perfil da Internet
