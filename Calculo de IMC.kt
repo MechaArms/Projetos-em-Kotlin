@@ -1,7 +1,7 @@
 /*
 Us&&o a versão do koltin: 1.7.10
 
-Desafio if, elif e else
+Desafio if e else
 
 Calculo de IMC - Índice de Massa Corporal
 
@@ -33,7 +33,7 @@ fun main() {
     val imc = calculo_IMC(altura, peso)
 
     if (imc < 18.5){
-        println("OBESIDADE GRAVE")
+        println("MAGREZA")
     }else if (imc in 18.5..24.9){
         println("NORMAL")
     }else if (imc in 25.0..29.9){
