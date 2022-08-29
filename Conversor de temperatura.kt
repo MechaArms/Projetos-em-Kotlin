@@ -1,5 +1,8 @@
+// Lista de exercicios:  https://developer.android.com/codelabs/basic-android-kotlin-compose-kotlin-fundamentals-practice-problems?hl=pt_br#0
+
 /*
 Conversor de temperatura
+
 Existem três padrões principais de temperatura usados no mundo: Celsius, Fahrenheit e Kelvin.
 
 No código inicial fornecido no snippet abaixo, escreva um programa que converta uma temperatura de um padrão a outro usando estas fórmulas:
