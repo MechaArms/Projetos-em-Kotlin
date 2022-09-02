@@ -15,7 +15,7 @@ fun main() {
     val tem_carro = listOf("Marcos", "Alice", "Bruno", "Melissa")
     
     //println = set
-    println(tem_carro intersect turno_noite)	  // tem carro e trabalham a noite
-    println(tem_carro intersect turno_dia)		  // tem carro e trabalham de dia
-    println(funcionarios subtract tem_carro)  	// remove quem tem carro na lista funcionarios 
+    println(tem_carro intersect turno_noite)    // tem carro e trabalham a noite
+    println(tem_carro intersect turno_dia)      // tem carro e trabalham de dia
+    println(funcionarios subtract tem_carro)    // remove quem tem carro na lista funcionarios 
 }
