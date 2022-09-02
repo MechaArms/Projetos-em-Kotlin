@@ -10,9 +10,9 @@ Lista 3 = Funcionarios que não tem carro
 
 fun main() {
     val funcionarios = listOf("Ana", "Marcos", "Alice", "Pedro", "Sophia", "Bruno", "Melissa")
-	  val turno_dia = listOf("Ana", "Marcos", "Alice","Melissa")
-	  val turno_noite = listOf("Pedro", "Sophia", "Bruno")
-	  val tem_carro = listOf("Marcos", "Alice", "Bruno", "Melissa")
+    val turno_dia = listOf("Ana", "Marcos", "Alice","Melissa")
+    val turno_noite = listOf("Pedro", "Sophia", "Bruno")
+    val tem_carro = listOf("Marcos", "Alice", "Bruno", "Melissa")
     
     //println = set
     println(tem_carro intersect turno_noite)	  // tem carro e trabalham a noite
