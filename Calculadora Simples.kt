@@ -19,7 +19,7 @@ fun main() {
     println("2 - subtraction")
     println("3 - multiplication")
     println("4 - division")
-    val choice = readLine()!!.toInt()
+    val choice = readln().toInt()
     var result = 0.0
     when (choice) {
         1 -> result = a + b
