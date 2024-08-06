@@ -1,4 +1,17 @@
 # Desafios em Kotlin
-[![Kotlin Badge](https://img.shields.io/badge/Kotlin-v1.710-884dff?style=flat-square&logo=Kotlin)](https://kotlinlang.org)
+[Fonte do Curso](https://developer.android.com/codelabs/basic-android-kotlin-compose-intro-kotlin-practice-problems?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-1-pathway-1%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-intro-kotlin-practice-problems#0)
 
-Alguns desafios simples em Kotlin
+
+<div align="center"># Practice Problems: Kotlin Basics
+
+  <h2>🐍 Alguns desafios simples em Kotlins 🐍</h2>
+  <br>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=octoelli&theme=neon-dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&type=png" alt="GitHub Streak" /></a>
+
+<br/>
+<hr/>
+
+Equi você encontrará as anotações gerais que eu uso durante os cursos.
+<br/>
+<hr/>
+
