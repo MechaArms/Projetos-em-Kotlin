@@ -11,7 +11,8 @@
 <br/>
 <hr/>
 
-Equi você encontrará as anotações gerais que eu uso durante os cursos.
+Está com dívidas..  [Use nosso fórum para compartilhar](https://github.com/octoelli/Desafios-em-Kotlin/discussions/1)
+
 <br/>
 <hr/>
 
